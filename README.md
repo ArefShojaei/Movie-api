@@ -1,6 +1,6 @@
 <h1 align="center"> Movie-api App  💪</h1> <br>
 <h3 align="center">
-  This project has been created by HTML, CSS & Vanilla JavaScript <br><br>+ 2 version of Web & Mobile <br><br> <a href='https://unrivaled-cajeta-edfc75.netlify.app/'>Demo</a>
+  This project has been created by HTML, CSS & Vanilla JavaScript <br><br>+ 2 versions for Web & Mobile <br><br> <a href='https://unrivaled-cajeta-edfc75.netlify.app/'>Demo</a>
 </h3>
 <p align="center">
   <h2>1️⃣ Web Version</h2>
