@@ -13,5 +13,5 @@
   </a>
 </p>
 <hr>
-<p align='center'>If you like to this project, I'll be happy for staring the project 😍</p>
+<p align='center'>If you like this project, I'll be happy for staring the project 😍</p>
 <p align='center'>Thanks for watching 🙏❤️</p>
