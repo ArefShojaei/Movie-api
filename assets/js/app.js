@@ -34,7 +34,7 @@ const showData = (data) =>{
             <div class="card__content">
                 <div class="rate">
                     <div class="icon"> <img src="./assets/images/icons/star-icon.svg" alt=""> </div>
-                    <p>${vote_average}</p>
+                    <p>${vote_average.toFixed(1)}</p>
                 </div>
                 <h3>${title}</h3>
             </div>
